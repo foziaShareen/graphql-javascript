@@ -1,6 +1,9 @@
 {"name":"graphql",
 "private":true,
 "type":"module",
+"scripts": {
+    "start": "node server.js"
+  },
 "dependencies"
 :{"@apollo/server":"^4.11.3","graphql":"^16.10.0"}
 }
